@@ -25,3 +25,10 @@ assume that the goal velocity is the unit vector pointing from the current posit
 ![image2](https://github.com/SidSong01/Motion-Planning/blob/master/Local%20Navigation%20with%20TTC%20Forces/repulsive_force.png)
 
 time-to-collision value-t, Typical value for the time horizon t_H is 4s, n is the unit vector that pushes the two agents apart.
+
+# how to use
+run simulator.py
+
+change the .csv file names to get different agents numbers. tune the parameters for getting best performance. or u can change the function to get better force
+
+see example.png for a example of 8 agents

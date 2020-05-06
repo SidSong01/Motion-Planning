@@ -16,5 +16,8 @@ amount of k_nearest_neighbors: 4
 
 
 # hwo to run:
-run prmplanner_v1.1.py
+```sh
+$ python prmplanner_v1.1.py
+``` 
+
 see the example.png for reference

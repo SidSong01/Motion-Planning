@@ -1,8 +1,8 @@
-# this is the implementation of sampling-based velocity approach for local navigation
+# # this is the implementation of sampling-based velocity approach for local navigation
 
 .csv files is for the simulation scenarios, classified by its agents numbers
 
-the format of them:
+# the format of them:
 
 line 1: the parameters of the first agent:
 
@@ -13,6 +13,7 @@ line 2: the parameters of the second agent
 line n: the parameters of the nth agent
 
 the cost function used in this project:
+
 ![image](https://github.com/SidSong01/Motion-Planning/blob/master/Sampling-Based%20Local%20Navigation/cost_function.png)
 
 Here, Alpha, Beta, and Gamma are the scaling constants that control the relative importance of the three cost terms.

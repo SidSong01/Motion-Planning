@@ -23,4 +23,6 @@ tc denotes the minimum time that it will take for the agent to collide with any 
 # how to use
 run simulator.py
 
-change the .csv file names to get different agents numbers. tune the parameters for getting best performance
+change the .csv file names to get different agents numbers. tune the parameters for getting best performance.
+
+see example.png for a example of crossing agents

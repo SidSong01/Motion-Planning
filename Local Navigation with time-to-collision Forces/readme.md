@@ -27,7 +27,9 @@ assume that the goal velocity is the unit vector pointing from the current posit
 time-to-collision value-t, Typical value for the time horizon t_H is 4s, n is the unit vector that pushes the two agents apart.
 
 # how to use
-run simulator.py
+```sh
+$ python simulator.py
+``` 
 
 change the .csv file names to get different agents numbers. tune the parameters for getting best performance. or u can change the function to get better force
 

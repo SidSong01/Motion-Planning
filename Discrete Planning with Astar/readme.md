@@ -1,7 +1,10 @@
 # this is the implementation of A* to plan the discrete motion of a simple car
 
 # how to use
-run astar.py
+
+```sh
+$ python astar.py
+```
 
 the state space is 3-dimensional and is given by an x position, a y position, and an orientation theta. see the example for reference.
 

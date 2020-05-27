@@ -13,5 +13,3 @@ Python 3.6
 ![image2](https://github.com/SidSong01/Motion-Planning/blob/master/Sampling-Based%20Local%20Navigation/example.png)
 
 ![image3](https://github.com/SidSong01/Motion-Planning/blob/master/Sampling-Based%20Navigation%20with%20PRM/example.png)
-
-![image3](https://github.com/SidSong01/Motion-Planning/blob/master/Sampling-Based%20Navigation%20with%20PRM/example.png)

@@ -1,8 +1,8 @@
-# # this is the implementation of sampling-based velocity approach for local navigation
+# This is the implementation of sampling-based velocity approach for local navigation
 
 .csv files is for the simulation scenarios, classified by its agents numbers
 
-# the format of them:
+# The format of them:
 
 line 1: the parameters of the first agent:
 
@@ -12,7 +12,7 @@ line 2: the parameters of the second agent
 : : :
 line n: the parameters of the nth agent
 
-# the cost function used in this project:
+# The cost function used in this project:
 
 ![image](https://github.com/SidSong01/Motion-Planning/blob/master/Sampling-Based%20Local%20Navigation/cost_function.png)
 
@@ -20,11 +20,16 @@ Here, Alpha, Beta, and Gamma are the scaling constants that control the relative
 
 tc denotes the minimum time that it will take for the agent to collide with any of its sensed neighbors if it moves at velocity v_cand. v_goal is the goal velocity.
 
-# how to use
+# How to use
 ```sh
 $ python simulator.py
 ``` 
 
-change the .csv file names to get different agents numbers. tune the parameters for getting best performance.
+Change the .csv file names to get different agents numbers. tune the parameters for getting best performance.
 
-see example.png for a example of crossing agents
+[//]: # (Image References)
+[image1]: ./example.png
+
+# Result
+![alt text][image1]
+Screenshot of running with crossing agents.

@@ -5,8 +5,9 @@ interesting projects related to Motion Planning
 No requirement except:
 
 Python 3.6
+---
 
-# Please see different folders for details.
+# Please see different folders for details of each project.
 
 ---
 # Examples results

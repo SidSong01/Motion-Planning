@@ -1,4 +1,4 @@
-# this is the implementation of the predictive TTC forces approach for local navigation
+# This is the implementation of the predictive TTC forces approach for local navigation
 
 .csv files is for the simulation scenarios, classified by its agents numbers
 

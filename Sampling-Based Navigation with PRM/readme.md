@@ -1,8 +1,11 @@
-# this is the implementation of the probabilistic roadmap method
+# This is the implementation of the probabilistic roadmap method
 
-motion planning queries for a 2D robot moving in an environment filled with static obstacles
+Motion planning queries for a 2D robot moving in an environment filled with static obstacles.
 
-# the parameters of PRM:
+[//]: # (Image References)
+[image1]: ./example.png
+
+## The parameters of PRM:
 
 amount of samples:800
 
@@ -15,9 +18,13 @@ maximal distance for add neighbors of one configuration: 2.2
 amount of k_nearest_neighbors: 4
 
 
-# hwo to run:
+## Hwo to run:
 ```sh
 $ python prmplanner_v1.1.py
 ``` 
 
-see the example.png for reference
+## Outcome
+
+![alt text][image1]
+---
+Black points are the sampled vertexes, dashed lines are the edges. Red parts are the obstacles, and blue and green cicles represent the final path.

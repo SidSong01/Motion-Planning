@@ -14,23 +14,29 @@ line n: the parameters of the nth agent
 
 The approach can be considered as a variant of the PowerLaw model, as both approaches rely on forces that depend on the relative displacement of agents at the moment of a collision.
 
-# goal force of the agent
+# Goal force of the agent
 
 ![image1](https://github.com/SidSong01/Motion-Planning/blob/master/Local%20Navigation%20with%20time-to-collision%20Forces/goal_force.png)
 
 assume that the goal velocity is the unit vector pointing from the current position of the agent to its goal position scaled by the agent’s preferred speed.
 
-# the force needed for the avoiding collision
+# The force needed for the avoiding collision
 
 ![image2](https://github.com/SidSong01/Motion-Planning/blob/master/Local%20Navigation%20with%20time-to-collision%20Forces/repulsive_force.png)
 
 time-to-collision value-t, Typical value for the time horizon t_H is 4s, n is the unit vector that pushes the two agents apart.
 
-# how to use
+# How to use
 ```sh
 $ python simulator.py
 ``` 
 
-change the .csv file names to get different agents numbers. tune the parameters for getting best performance. or u can change the function to get better force
+Change the .csv file names to get different agents numbers. tune the parameters for getting best performance. or u can change the function to get better force
 
-see example.png for a example of 8 agents
+[//]: # (Image References)
+[image1]: ./example.png
+
+# Results
+![alt text][image1]
+---
+This is the screenshot for the 8 agents scenario.

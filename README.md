@@ -4,13 +4,13 @@ interesting projects related to Motion Planning
 
 No requirement except:
 
-Python 3.6
----
-
-# Please see different folders for details of each project.
+`Python 3.6`
 
 ---
-# Examples results
+## Please see different folders for details of each project.
+---
+
+## Examples results
 
 ![image4](https://github.com/SidSong01/Motion-Planning/blob/master/RRT/RRT.png)
 

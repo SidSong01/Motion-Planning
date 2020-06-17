@@ -1,6 +1,6 @@
 # Motion-Planning
 
-interesting projects related to Motion Planning
+Interesting projects related to Motion Planning.
 
 No requirement except:
 

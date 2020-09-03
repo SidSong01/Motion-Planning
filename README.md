@@ -1,6 +1,6 @@
 # Motion-Planning
 
-Interesting projects related to Motion Planning.
+Interesting pragramming assignmnets related to Motion Planning.
 
 No requirement except:
 

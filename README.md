@@ -6,9 +6,9 @@ No requirement except:
 
 `Python 3.6`
 
----
+-
 ## Please see different folders for details of each project.
----
+-
 
 ## Examples results
 

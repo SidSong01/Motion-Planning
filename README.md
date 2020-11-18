@@ -2,6 +2,10 @@
 
 Interesting pragramming assignmnets related to Motion Planning.
 
+Course website: [here](https://sites.google.com/a/g.clemson.edu/cpsc-motion/)
+
+Assignment authors: Dr. Ioannis Karamouzas (ioannis@g.clemson.edu), Pei Xu (peix@g.clemson.edu)
+
 No requirement except:
 
 `Python 3.6`
